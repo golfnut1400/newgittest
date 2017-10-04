@@ -1,2 +1,2 @@
 # newgittest
-Learing Git
+Learing Git. I love the challenge.
